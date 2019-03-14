@@ -1,6 +1,8 @@
 # Zx-Uno-Basic
 Zx Uno Basic custom board
 
+Advertencia!! Esta placa aun no ha sido testeada por lo que no me hago responsable de que no funcione. En cuanto lleguen los prototipos se confirmara el funcionamiento.
+
 Placa custom basada en el proyecto original de www.zxuno.com
 Solo puerto VGA, sin video compuesto, sin puerto externo GPIO y sin salida de auricular (de ahi lo de "version basica").
 
@@ -35,6 +37,7 @@ Licencia Creative Commons Share Alike.
 
 
 
+Warning!!! This board has not been tested yet. I am not responsible if it doesn´t work. Waiting for the prototype to confirm that it works or not.
 
 Custom board based on the original project of www.zxuno.com.
 Only VGA port, no composite video, no external gpio ports and no headphone audio (that's why "basic version").
