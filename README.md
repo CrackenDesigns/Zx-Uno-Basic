@@ -19,7 +19,7 @@ Lista de componentes
 - J1                 Conector Mini USB tipo B SMD
 - J2                 Conector DB9 Macho TH
 - J3                 Conector MicroSD 
-- J4                 Conector 6 pin JST o Molex paso 1.25mm
+- J4                 Conector 6 pin JST o Molex paso 1.25mm TH
 - J5                 Conector Mini Din 6 pin
 - J6                 Conector Jack estéreo 3.5mm
 - J7                 Conector VGA DB15HD
@@ -54,7 +54,7 @@ BOM
 - J1                 Connector Mini USB type B SMD
 - J2                 Connector DB9 Male TH
 - J3                 Connector MicroSD 
-- J4                 Connector 6 pin JST or Molex 1.25mm pitch
+- J4                 Connector 6 pin JST or Molex 1.25mm pitch TH
 - J5                 Connector Mini Din 6 pins
 - J6                 Connector Jack stereo 3.5mm
 - J7                 Connector VGA DB15HD
