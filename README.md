@@ -34,6 +34,11 @@ ZXUno idea original de Superfo, Mcleod, Quest, AVillena and Hark0.
 Licencia Creative Commons Share Alike.
 
 
+
+
+Custom board based on the original project of www.zxuno.com.
+Only VGA port, no composite video, no external gpio ports and no headphone audio (that's why "basic version").
+
 BOM
 
 - C1,C2,C3,C4        Capacitor SMD 10uF 10V 3216 Tantalum
@@ -60,8 +65,5 @@ BOM
 - U5                 AS7C34096A-10TIN (Version 512K) or IS61WV20488BLL-10TLI (Version 2M)
 
 
-
-Custom board based on the original project of www.zxuno.com.
-Only VGA port, no composite video, no external gpio ports and no headphone audio (that's why "basic version").
 ZxUno original idea by Superfo, Mcleod, Quest, AVillena and Hark0.
 Under Creative Commons Share Alike license.
