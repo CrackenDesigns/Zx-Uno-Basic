@@ -44,7 +44,33 @@ Warning!!! This board has not been tested yet. I am not responsible if it doesnÂ
 Custom board based on the original project of www.zxuno.com.
 Only VGA port, no composite video, no external gpio ports and no headphone audio (that's why "basic version").
 
-BOM
+# BOM
+
+| Part             | Value                            | Package           |
+| ---------------- | -------------------------------- | ------------------|   
+| C1,C2,C3,C4      | Capacitor SMD 10uF 10V           | 3216 Tantalum     |
+| C5,C6            | Capacitor SMD 10nF               | 0603              |
+| C7,C8            | Capacitor SMD 10uF               | 0603              |
+| C9..C27          | Capacitor SMD 100nF              | 0402              |
+| R1               | Resistor SMD 10K                 | 0402              |
+| R2,R6,R9,R12     | Resistor SMD 1K                  | 0402              |
+| R3,R4,R7,R10,R13 | Resistor SMD 2K                  | 0402              |
+| R5,R8,R11        | Resistor SMD 510 Ohm             | 0402              |
+| RN1,RN2          | Resistor Array 510 Ohm           | 0603              |
+| X1               | Active Oscillator SMD 50MHZ      | 3225              |
+| J1               | Connector Mini USB type B        | SMD               |
+| J2               | Connector DB9 Male               | TH                |
+| J3               | Connector MicroSD                | SMD               |
+| J4               | Connector 6 pin JST or Molex 1.25mm | TH                |
+| J5               | Connector Mini Din 6 pins        | TH                |
+| J6               | Connector Jack stereo 3.5mm      | TH                |
+| J7               | Connector VGA DB15HD             | TH                |
+| U1               | FPGA XC6SLX9-TQG144 Spartan-6    | TQG144 SMD        | 
+| U2               | Regulator Dropout AMS1117-3.3    | SOT223-3          |
+| U3               | W25Q128FVSIG SPI Flash 128Mbit   | SOIC              |
+| U4               | Regulator Dropout AMS1117-1.2 | SOT223-3          |
+| U5               | AS7C34096A-10TIN (VersiÃ³n 512K) or IS61WV20488BLL-10TLI (2M Version)| TSOP44 II    |
+
 
 - C1,C2,C3,C4        Capacitor SMD 10uF 10V 3216 Tantalum
 - C5,C6              Capacitor SMD 10nF 0603
