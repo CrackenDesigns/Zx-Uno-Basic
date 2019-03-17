@@ -31,7 +31,7 @@ Solo puerto VGA, sin video compuesto, sin puerto externo GPIO y sin salida de au
 | U2               | Regulador de tensión AMS1117-3.3 | SOT223-3          |
 | U3               | W25Q128FVSIG SPI Flash 128Mbit   | SOIC              |
 | U4               | Regulador de tensión AMS1117-1.2 | SOT223-3          |
-| U5               | AS7C34096A-10TIN (Versión 512K) o IS61WV20488BLL-10TLI (Versión 2M)|
+| U5               | AS7C34096A-10TIN (Versión 512K) o IS61WV20488BLL-10TLI (Versión 2M)| TSOP44 II    |
 
 
 ZXUno idea original de Superfo, Mcleod, Quest, AVillena and Hark0.
